@@ -6,7 +6,11 @@ In this analysis I created three new tables in PostgreSQL to help determine how 
 ## Results
 - 90,398 employees are eligible for retirement, just under one-third of PH's entire workforce!
 - More employees with titles of either Senior Engineer or Senior Staff are eligible for retirement than employees with other titles.  There are 29,414 senior engineers and 28,254 senior staff that are eligible, just about double the number of retirement-eligible employees with the title of Engineer (14,222, the next-highest number in the list).
+
+
 ![Count of retiring employees per title](https://github.com/MaxV6ft4/Pewlett_Hackard_Analysis/blob/main/Retiring_Employee_Title_Count.png)
+
+
 - Only two out of the nine department managers are retirement-eligible.
 - 1,549 current employees were born in 1965 and are therefore elgibile for the mentorship program.
 
