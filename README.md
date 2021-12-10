@@ -17,12 +17,13 @@ In this analysis I created three new tables in PostgreSQL to help determine how 
 ## Summary
 - As mentioned in the results, about one-third of the workforce will need to be replaced as eligible employees will begin to retire.  Just under 60,000 of these positions belonged to senior engineers and senior staff members, so PH will need to either promote some engineers and staff (not counting the 14,222 and 12,243 respectively eligible to retire) or embark on a massive hiring spree!  Only two managerial positions will need to be filled in the coming months so this can be seen as some relief for the PH executives.  That being said, the other managers do not seem to be that far behind.  The department managers table shows that the almost all current managers began their titles between the late 1980s and early 1990s.  So if two are currently eligible for retirement, the rest might be eligible in the next few years.
 
-![Department Managers]
-![Department Managers 2]
+![Department Managers](https://github.com/MaxV6ft4/Pewlett_Hackard_Analysis/blob/main/Dept_Manager.png)
+
+![Department Managers 2](https://github.com/MaxV6ft4/Pewlett_Hackard_Analysis/blob/main/Dept_Manager2.png)
 
 
 - Only 1,549 employees are eligible to participate in the mentorship program.  These employees represent less than 1% of the PH workforce, an incredibly small number to act as mentors to just over 90,000 potential new employees.  PH should consider widening their mentorship eligibility requirements to cover multiple birth years instead of only 1965.  Below I have included a table of the number of current employees per department.  The production and development departments by far have the most employees so PH might also want to focus on these two departments when it comes to mentoring new employees.
 
 
-![Current employees at PH by department]
+![Current employees at PH by department](https://github.com/MaxV6ft4/Pewlett_Hackard_Analysis/blob/main/Current_Emp_Count.png)
 
